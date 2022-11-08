@@ -1,0 +1,32 @@
+
+body {
+   
+}
+
+h1 {
+    color: blue;
+    
+}
+h2 {
+    color: white;
+    background-color: blue;
+    text-align: center;
+
+}
+
+
+td {
+    font-family: Arial;
+    padding: 5px;
+}
+
+table {
+    border-style: solid;
+    border-color: blue;
+    margin: 10px;
+
+}
+.code {
+    font-family: monospace;
+    background-color: antiquewhite;
+}
